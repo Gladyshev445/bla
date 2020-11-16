@@ -1,0 +1,61 @@
+.header{
+    background-color: red;
+    height: 200px;
+    margin-bottom: 10px;
+}
+.sidebar-1{
+    background-color: green;
+    height: 500px;
+    margin-bottom: 10px;
+    width: 15%;
+    float: left;
+}
+.content{
+    background-color: yellow;
+    height: 500px;
+    margin-bottom: 10px;
+    width: 69.45%;
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.footer{
+    background-color: blue;
+    height: 200px;
+    clear: both;
+}
+.sidebar-2{
+    background-color: green;
+    height: 500px;
+    margin-bottom: 10px;
+    width: 15%;
+    float: right;
+}
+h1{
+    text-align: center;
+    padding-top: 70px;
+}
+img{
+    float: left;
+    height: 40%;
+    width: 25%;
+}
+.d {
+float: right;
+padding-right: 55%;
+}
+body{
+    font-size: 15px;
+}
+.bet{
+    height: 100%;
+    width: 100%;
+}
+.pluss{
+    height: 100%;
+    width: 100%;
+}
+h2{
+    text-align: center;
+    padding-top: 70px;
+}
